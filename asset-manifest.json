@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/haneyx/reactAPI.git/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/haneyx/reactAPI.git/static/js/main.03cf827c.chunk.js",
-    "main.js.map": "/haneyx/reactAPI.git/static/js/main.03cf827c.chunk.js.map",
-    "runtime-main.js": "/haneyx/reactAPI.git/static/js/runtime-main.fe57c18d.js",
-    "runtime-main.js.map": "/haneyx/reactAPI.git/static/js/runtime-main.fe57c18d.js.map",
-    "static/css/2.4be38407.chunk.css": "/haneyx/reactAPI.git/static/css/2.4be38407.chunk.css",
-    "static/js/2.5f1a5a29.chunk.js": "/haneyx/reactAPI.git/static/js/2.5f1a5a29.chunk.js",
-    "static/js/2.5f1a5a29.chunk.js.map": "/haneyx/reactAPI.git/static/js/2.5f1a5a29.chunk.js.map",
-    "static/js/3.ff6d4d4a.chunk.js": "/haneyx/reactAPI.git/static/js/3.ff6d4d4a.chunk.js",
-    "static/js/3.ff6d4d4a.chunk.js.map": "/haneyx/reactAPI.git/static/js/3.ff6d4d4a.chunk.js.map",
-    "index.html": "/haneyx/reactAPI.git/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/haneyx/reactAPI.git/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/haneyx/reactAPI.git/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.5f1a5a29.chunk.js.LICENSE.txt": "/haneyx/reactAPI.git/static/js/2.5f1a5a29.chunk.js.LICENSE.txt"
+    "main.css": "/reactAPI/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactAPI/static/js/main.24cc897b.chunk.js",
+    "main.js.map": "/reactAPI/static/js/main.24cc897b.chunk.js.map",
+    "runtime-main.js": "/reactAPI/static/js/runtime-main.90b92eea.js",
+    "runtime-main.js.map": "/reactAPI/static/js/runtime-main.90b92eea.js.map",
+    "static/css/2.4be38407.chunk.css": "/reactAPI/static/css/2.4be38407.chunk.css",
+    "static/js/2.5f1a5a29.chunk.js": "/reactAPI/static/js/2.5f1a5a29.chunk.js",
+    "static/js/2.5f1a5a29.chunk.js.map": "/reactAPI/static/js/2.5f1a5a29.chunk.js.map",
+    "static/js/3.ff6d4d4a.chunk.js": "/reactAPI/static/js/3.ff6d4d4a.chunk.js",
+    "static/js/3.ff6d4d4a.chunk.js.map": "/reactAPI/static/js/3.ff6d4d4a.chunk.js.map",
+    "index.html": "/reactAPI/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reactAPI/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactAPI/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5f1a5a29.chunk.js.LICENSE.txt": "/reactAPI/static/js/2.5f1a5a29.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe57c18d.js",
+    "static/js/runtime-main.90b92eea.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.5f1a5a29.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.03cf827c.chunk.js"
+    "static/js/main.24cc897b.chunk.js"
   ]
 }
